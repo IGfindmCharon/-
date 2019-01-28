@@ -1,0 +1,4 @@
+﻿  学生管理系统.cpp
+d:\workbench\学生管理系统\学生管理系统\学生管理系统.cpp(109): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  学生管理系统.vcxproj -> D:\workbench\学生管理系统\Debug\学生管理系统.exe
+  学生管理系统.vcxproj -> D:\workbench\学生管理系统\Debug\学生管理系统.pdb (Full PDB)
